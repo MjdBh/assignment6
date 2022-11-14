@@ -1,3 +1,5 @@
+package ca.ucalgary.ensf594;
+
 /**
  * Represents data within a node
  */

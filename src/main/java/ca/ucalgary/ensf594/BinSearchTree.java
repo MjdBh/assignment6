@@ -1,3 +1,5 @@
+package ca.ucalgary.ensf594;
+
 import java.io.*;
 import javax.swing.JOptionPane;
 /**
